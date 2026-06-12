@@ -117,3 +117,8 @@ D.  Set following props in application.properties
 	eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
 E.  Now create controllers and other classes for Service Functionality
 F.  First Run Eureka Server App, then Run Provider App, then run Consumer App.
+
+School Application (Project)
+	Student    =  StudentService
+	Employee   =  EmployeeService
+	Library    =  LibraryService
